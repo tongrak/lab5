@@ -1,3 +1,3 @@
-# lab5
-
-So, I went ahead and still trying to understand how are these gonna work together.
+# 261102 lab5
+# ชื่อ-สกุล: ต้องรัก เรือนโต
+# รหัสนักศึกษา: 630610730
